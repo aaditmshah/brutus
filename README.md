@@ -1,4 +1,4 @@
-# Caesar #
+# Brutus #
 
 An implementation of a brute force attack against Caesar's cipher in Haskell, for my college Information Security class.
 
